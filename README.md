@@ -15,7 +15,7 @@ Você precisa seguir a ordem para não ficar perdido na montanha:
   1. Conhecimento básico de Python
   2. IPython instalado
   3. Dependência utilizada
-   - 3.1 Numpy
+    3.1 Numpy
 
 # Comentário geral
 
