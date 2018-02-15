@@ -12,11 +12,21 @@ Você precisa seguir a ordem para não ficar perdido na montanha:
 
 # Pré-requisitos
 
+  1. Conhecimento básico de Python
+  2. IPython instalado
+  3. Dependência utilizada
+    3.1 Numpy
 
+# Comentário geral
 
+No código, as sinapses são representadas pelo nome de links, com nosso pequeno conjunto de dados binários conhecido como xor, você poderá ter uma compreensão de como funciona uma rede neural e as bibliotecas de aprendizagem de máquina.
 
+# Mais dados de aprendizagem e inspiradores
 
-
-
-
-
+ Livros recomendados:
+  1. Make Your Own Neural Network
+  2. Introduction to the Math of Neural Networks
+ 
+ Inspiradores(youtubers):
+  1. The Coding Train 
+  2. Siraj Raval
