@@ -1,4 +1,5 @@
 # Rede-neural-Backpropagation-Python
 aawdawdawdawdad
-#alallala
+
+# alallala
 aaaa
